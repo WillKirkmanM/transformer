@@ -3,4 +3,5 @@
 </p>
 <h1 align="center">Transformer</h1>
 
-<p align="center">adsd Transformer Showcasing SoftMax Normalisation Function, Identity Matrices (Wq, Wk, Wv — Learned Weights) in a Feed-Forward Network</p>
+<p align="center">Transformer Showcasing SoftMax Normalisation Function, Identity Matrices (Wq, Wk, Wv — Learned Weights) in a Feed-Forward Network</p>
+
